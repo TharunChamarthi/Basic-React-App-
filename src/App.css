@@ -1,0 +1,23 @@
+.first_header{
+  color:red;
+}
+
+
+.second_header{
+  color:blue;
+}
+.tableHead{
+  background-color: rgb(68, 63, 63);
+}
+.tableData{
+  background-color: rgb(69, 69, 80);
+}
+
+.delete{
+  background-color:  rgb(233, 47, 47);
+  border-radius: 5px;
+  
+}
+.table{
+  margin: 300px 0 0 500px;
+}
